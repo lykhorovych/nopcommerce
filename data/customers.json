@@ -1,0 +1,122 @@
+[
+        {
+                "firstname": "Nicholas",
+                "lastname": "Spence",
+                "email": "morenovalerie@example.net",
+                "password": "s5RHJUg2&q",
+                "gender": "Female",
+                "company_name": "Wilson-Scott",
+                "manager_of_vendor": "Vendor 2",
+                "date_of_birth": "01/18/2011",
+                "customer_roles": "Administrators",
+                "admin_comment": "Build lead company success real.\nFilm poor among evening. Left various baby decide.\nSize long pay affect perform."
+        },
+        {
+                "firstname": "Patrick",
+                "lastname": "Shaffer",
+                "email": "edwardsalazar@example.net",
+                "password": "@)M4M_T$fe",
+                "gender": "Male",
+                "company_name": "Burns-Lee",
+                "manager_of_vendor": "Vendor 2",
+                "date_of_birth": "01/10/2001",
+                "customer_roles": "Guests",
+                "admin_comment": "Police than grow. Continue modern read economic.\nDesign guess level level yeah claim. Drop arrive finally significant always."
+        },
+        {
+                "firstname": "Brenda",
+                "lastname": "Flores",
+                "email": "craiganthony@example.org",
+                "password": "(V8hJ($sJ%",
+                "gender": "Male",
+                "company_name": "Young, Garcia and Peterson",
+                "manager_of_vendor": "Vendor 1",
+                "date_of_birth": "08/12/1985",
+                "customer_roles": "Guests",
+                "admin_comment": "Hour there me light phone. Head partner mention candidate hard career. Between front enjoy able a speak in turn.\nDown include series provide low scene. Kind yourself thank cup team experience."
+        },
+        {
+                "firstname": "Michael",
+                "lastname": "Wall",
+                "email": "timothy40@example.org",
+                "password": "a^8L37*gq#",
+                "gender": "Female",
+                "company_name": "Nichols and Sons",
+                "manager_of_vendor": "Vendor 1",
+                "date_of_birth": "11/11/2009",
+                "customer_roles": "Forum Moderators",
+                "admin_comment": "Structure than apply western lot mean. Note picture peace when cell every. Get including court wife.\nExpect also blue beyond address red. Finish both whose reveal total."
+        },
+        {
+                "firstname": "Jennifer",
+                "lastname": "Aguirre",
+                "email": "phillipsnatasha@example.net",
+                "password": "iF3x1Wcg9!",
+                "gender": "Male",
+                "company_name": "Forbes Inc",
+                "manager_of_vendor": "Vendor 2",
+                "date_of_birth": "11/01/2011",
+                "customer_roles": "Vendors",
+                "admin_comment": "Involve method official trouble PM learn. News provide series nor TV morning I.\nShare question good exist laugh. Stay prevent concern question general international."
+        },
+        {
+                "firstname": "Jared",
+                "lastname": "Gomez",
+                "email": "ochoaluis@example.com",
+                "password": "m&2@OhzQJ%",
+                "gender": "Female",
+                "company_name": "Ali and Sons",
+                "manager_of_vendor": "Vendor 1",
+                "date_of_birth": "11/03/1999",
+                "customer_roles": "Administrators",
+                "admin_comment": "Together think present fire on manager. Teacher best measure particular.\nOn simply admit couple visit and place. Good international with lot born. This city among even consider."
+        },
+        {
+                "firstname": "Daniel",
+                "lastname": "Wood",
+                "email": "jason84@example.com",
+                "password": "q!6N3+qmB@",
+                "gender": "Female",
+                "company_name": "Green, Garza and Martin",
+                "manager_of_vendor": "Vendor 2",
+                "date_of_birth": "07/22/2013",
+                "customer_roles": "Vendors",
+                "admin_comment": "Factor compare this decision party result window. Majority the speak determine.\nCountry art since. Save final direction plant them animal then beautiful. Affect team fight."
+        },
+        {
+                "firstname": "James",
+                "lastname": "Daugherty",
+                "email": "qcrosby@example.com",
+                "password": "YE4Ge*e9@m",
+                "gender": "Male",
+                "company_name": "Lopez-Meyer",
+                "manager_of_vendor": "Vendor 1",
+                "date_of_birth": "11/01/2004",
+                "customer_roles": "Guests",
+                "admin_comment": "More generation foreign. Whether board involve kitchen way something.\nServe strong continue none song drop. Speech light language magazine."
+        },
+        {
+                "firstname": "Stephanie",
+                "lastname": "Bond",
+                "email": "zachary04@example.org",
+                "password": "kGRwb4oS(2",
+                "gender": "Male",
+                "company_name": "Thomas Group",
+                "manager_of_vendor": "Vendor 2",
+                "date_of_birth": "04/04/2009",
+                "customer_roles": "Guests",
+                "admin_comment": "Top day everything. Arrive grow outside next.\nAgain statement option must idea whole. Current check agency what place."
+        },
+        {
+                "firstname": "Evan",
+                "lastname": "Gibbs",
+                "email": "kathleen42@example.com",
+                "password": "6Fg2sMff)@",
+                "gender": "Male",
+                "company_name": "Ramos, Powell and Case",
+                "manager_of_vendor": "Vendor 1",
+                "date_of_birth": "08/09/1992",
+                "customer_roles": "Registered",
+                "admin_comment": "Hour production early without probably despite.\nReport begin federal their technology society they. Worry plan compare. Quickly Democrat ahead provide our agreement situation protect."
+        }
+]
